@@ -1,3 +1,4 @@
+#prime number program ani
 n = int(input("Enter number: "))
 i = 2
 flag = 1
